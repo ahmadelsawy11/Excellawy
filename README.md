@@ -7,14 +7,12 @@
 - <b>Investigate a Dataset (Udacity)</b>
   - [Data analysis by Python](https://youtu.be/TUgU_1DE9z4?si=NrmEcMYVM9z2HvSt)
 - <b>Power BI</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Sales & Activities Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmNlNWQwODItODcyMy00MTZjLWE2MWMtMjc3ZmUyNGQwYjBhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 - <b>Excel</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [IMS Sales Dashboard](https://docs.google.com/spreadsheets/d/1z0uAp3ziCVOWeFNzM1lN6jH4azoE4ekf/edit?usp=drive_link&ouid=115135874094681707802&rtpof=true&sd=true)
+  - [Sales Vs Target Analysis](https://docs.google.com/spreadsheets/d/1_Pr8khlUvN3JMoARoqmFuTW9hNpj2hKo/edit?usp=drive_link&ouid=115135874094681707802&rtpof=true&sd=true)
+
 
 
 <h2>🎓 Certificates</h2>
