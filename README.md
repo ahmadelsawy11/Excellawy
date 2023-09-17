@@ -19,6 +19,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🎓 Certificates</h2>
+
+ - [Power BI Data Analyst Career Track ](https://drive.google.com/file/d/16n3qHrBlARtvZmZu82qzOS2TKtgOYKlt/view)
+ - [Salesforce Sales Operations Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RM6CY493KADC?utm_product=prof).
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Descriptive Statistics](https://youtu.be/NyCqaxLW3p8)
