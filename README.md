@@ -3,25 +3,27 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Explore Bike Share Data (Udacity)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data analysis by Python](https://youtu.be/Fa651jh-9-8?si=uALnMn5RqCvEsHw6)
 - <b>Investigate a Dataset (Udacity)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  - [Data analysis by Python](https://youtu.be/TUgU_1DE9z4?si=NrmEcMYVM9z2HvSt)
+- <b>Power BI</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Excel</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2>🎓 Certificates</h2>
 
  - [Power BI Data Analyst Career Track ](https://drive.google.com/file/d/16n3qHrBlARtvZmZu82qzOS2TKtgOYKlt/view)
  - [Salesforce Sales Operations Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RM6CY493KADC?utm_product=prof).
+ - [McKinsey Forward Program](https://www.credly.com/badges/2a329265-2ccd-4c55-bf0c-a3997ac70441/linked_in_profile)
+ - [Data Analysis professional Nonodegree Program](https://confirm.udacity.com/FCGGLEXW)
+ - [Master in Microsoft Power BI Desktop and Service](https://www.udemy.com/certificate/UC-cccf7d6d-4336-45e3-9765-68b1f0940d12/)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Descriptive Statistics](https://youtu.be/NyCqaxLW3p8)
